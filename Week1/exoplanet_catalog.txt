@@ -1,0 +1,5 @@
+Exoplanet Name,Radius (Earth radii),Orbital Period (days)
+Kepler-186f,1.11,129.90
+Kepler-1649b,1.06,8.68
+TRAPPIST-1e,0.91,6.10
+kepler111,1.22,23.44

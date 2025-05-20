@@ -1,0 +1,5 @@
+# Observation Data - 2023-10-27
+# Star Name, Flux, Error
+Alpha, 123.45, 1.2
+Beta, 56.78, 0.8
+Gamma, 234.56, 2.1

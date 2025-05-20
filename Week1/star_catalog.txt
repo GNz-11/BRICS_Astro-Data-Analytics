@@ -1,0 +1,3 @@
+Star Name, Spectral Type, Magnitude
+Alpha Centauri A, G2V, 0.01
+Sirius A, A1V, -1.46
